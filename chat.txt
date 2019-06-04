@@ -16,3 +16,4 @@ fun fun
 fun fun 
 funfun 
 hello 
+this is super fun I love using gitMessage 
