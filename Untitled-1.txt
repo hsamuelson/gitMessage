@@ -1,0 +1,1 @@
+python criteo_mlp.py -e 50 -m 100 -n 0 -s 0.001 -c 0.000001 -g 10 -b 1000 -l 1 -u 0 -v 0 -f 1 banditnet_lambda0_train.txt.gz banditnet_lambda0_validation.txt.gz banditnet_lambda0_test.txt.gz > ../exp3/full_e_50_m100_n0_s0.001_c0.000001_g10_b1000_l1.log
